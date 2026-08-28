@@ -1,4 +1,4 @@
-name: Deploy SistemMarangoz to Cloudflare
+name: Deploy to Cloudflare
 
 on:
   push:
